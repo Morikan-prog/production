@@ -1,0 +1,15 @@
+{
+        "mysql":{
+            "host":"Your Host",
+            "user":"Your user name",
+            "passwd":"Your password",
+            "db":"Your DataBase",
+            "tables":[
+                "Your",
+                "using",
+                "tables"
+            ],
+            "charset":"Your using charset"
+        },
+        "TOKEN":"Your TOKEN"
+}
